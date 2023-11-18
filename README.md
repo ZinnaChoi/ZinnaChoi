@@ -9,9 +9,7 @@
 
 <div align="center">
 
-</br>
-
-![Alt text](image.png)
+<img src="image.png" alt="Image" style="width: 330px; height: 280px;">
 
 </div>
 
