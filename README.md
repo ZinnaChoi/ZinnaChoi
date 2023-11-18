@@ -1,17 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Zinna%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&desc=🐶Welcome%20to%20my%20github%20profile🐶&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Zinna%20Choi&fontSize=84&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&desc=🐶Welcome%20to%20my%20github%20profile🐶&descAlignY=51&descAlign=62)
 
 ## About Me
 
-<div style="display: flex; align-items: center;">
-    <div>
-        👔 I’m working as a Backend Engineer since July 2021. <br>
-        🩷 Things I like: Coffee, Dogs, Solving algorithm problems, Listening to Kpop. <br>
-        👝 I’m making a product inventory management system with a friend as a Toy Project.<br>
-        💌 How to contact me: choiyh11097@gmail.com
-    </div>
-    <div style="margin-left: 20px;">
-        <img src="image.png" alt="Image" width="280" height="240">
-    </div>
+    👔 I’m working as a Backend Engineer since July 2021.
+    🩷 Things I like: Coffee, Dogs, Solving algorithm problems, Listening to Kpop.
+    👝 I’m making a product inventory management system with a friend as a Toy Project.
+    💌 How to reach me: choiyh11097@gmail.com
+
+<div align="center">
+
+<img src="image.png" alt="Image" style="width: 270px; height: 240px;">
+
 </div>
 
 ## Skills
