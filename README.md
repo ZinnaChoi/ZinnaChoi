@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="image.png" alt="Image" style="width: 250px; height: 220px;">
+<img src="image.png" alt="Image" style="width: 300px; height: 120px;">
 
 </div>
 
