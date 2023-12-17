@@ -9,6 +9,8 @@
 
 <div align="center">
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@zinna_1109)
+
 <img src="image.png" alt="Image" style="width: 320px; height: 120px;">
 
 </div>
