@@ -2,14 +2,12 @@
 
 ## About Me
 
-    👔 I’m working as a Backend Engineer since July 2021.
-    🩷 Things I like: Coffee, Dogs, Solving algorithm problems, Listening to Kpop.
-    👝 I’m making a product inventory management system with a friend as a Toy Project.
-    💌 How to reach me: choiyh11097@gmail.com
+- 👔 I worked as a Backend Engineer from July 2021 to mid-December 2023. Currently exploring new opportunities and expanding my skill set.
+- 🩷 Things I like: Coffee, Dogs, Solving algorithm problems, Listening to Kpop.
+- 💌 How to reach me: choiyh11097@gmail.com
+- 💫 My Tech Blog: [Zinna's Velog](https://velog.io/@zinna_1109)
 
 <div align="center">
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@zinna_1109)
 
 <img src="image.png" alt="Image" style="width: 320px; height: 120px;">
 
