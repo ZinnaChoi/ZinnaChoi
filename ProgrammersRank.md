@@ -7,17 +7,17 @@
         <div style="display: flex; justify-content: space-between; padding: 0 20px;">
             <div>
                 <h3 style="font-size: 18px; margin-bottom: 0; text-align: center;color: #FFE697; ">Rank🏅</h3>
-                <p style="font-size: 22px;">3,759</p>
+                <p style="font-size: 22px;">3,725</p>
             </div>
             <div>
                 <h3 style="font-size: 18px; margin-bottom: 0;text-align: center;color: #FFE697; ">Score</h3>
-                <p style="font-size: 22px; text-align: center; ">1,602</p>
+                <p style="font-size: 22px; text-align: center; ">1,603</p>
             </div>
             <div>
                 <h3 style="font-size: 18px; margin-bottom: 0;color: #FFE697;">Solved</h3>
-                <p style="font-size: 22px; text-align: center; ">310</p>
+                <p style="font-size: 22px; text-align: center; ">311</p>
             </div>
         </div>
-        <p style="font-size: 14px; text-align: center; margin-top: 4px;color: #FFE697;">Last Updated: 2023-12-22</p>
+        <p style="font-size: 14px; text-align: center; margin-top: 4px;color: #FFE697;">Last Updated: 2023-12-23</p>
     </div>
 </div>
