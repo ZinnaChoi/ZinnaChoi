@@ -10,7 +10,6 @@
 <div align="center">
 
 <img src="image.png" alt="Image" style="width: 320px; height: 120px;">
-
 </div>
 
 ## Skills
