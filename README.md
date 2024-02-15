@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Zinna%20Choi&fontSize=84&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&desc=🐶Welcome%20to%20my%20github%20profile🐶&descAlignY=51&descAlign=62)
+# CHOI YE HEE
+
+---
 
 ## About Me
 
 - 👔 I worked as a Backend Engineer from July 2021 to mid-December 2023. Currently exploring new opportunities and expanding my skill set.
-- 🩷 Things I like: Coffee, Dogs, Solving algorithm problems, Listening to Kpop.
+- 🩷 As a developer, the direction I strive for is: a developer who deliberates and applies
 - 💌 How to reach me: choiyh11097@gmail.com
 - 💫 My Tech Blog: [Zinna's Velog](https://velog.io/@zinna_1109)
 
