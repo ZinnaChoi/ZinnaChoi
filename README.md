@@ -7,9 +7,10 @@
 - 💌 How to reach me: choiyh11097@gmail.com
 - 💫 My Tech Blog: [Zinna's Velog](https://velog.io/@zinna_1109)
 
+<br>
 <div align="center">
 
-<img src="image.png" alt="Image" style="width: 320px; height: 120px;">
+![Zinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinnaChoi&show_icons=true&count_private=true&theme=material-palenight)
 
 </div>
 
@@ -27,6 +28,7 @@
 
 #### 📍 I Have Experience With
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-39477F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-FFD1DC?style=flat-square&logo=Kafka&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-FC6C85?style=flat-square&logo=groovy&logoColor=white) ![NiFi](https://img.shields.io/badge/NiFi-C154C1?style=flat-square&logo=Nifi&logoColor=white) ![R](https://img.shields.io/badge/R-3E77B6?style=flat-square&logo=R&logoColor=white)
 
 </div>
