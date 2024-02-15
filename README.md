@@ -1,7 +1,5 @@
 # CHOI YE HEE
 
----
-
 ## About Me
 
 - 👔 I worked as a Backend Engineer from July 2021 to mid-December 2023. Currently exploring new opportunities and expanding my skill set.
