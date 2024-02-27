@@ -2,6 +2,7 @@
 
 ## About Me
 
+- ✒️ I majored in Statistics at Korea University.
 - 👔 I worked as a Backend Engineer from July 2021 to mid-December 2023. Currently exploring new opportunities and expanding my skill set.
 - 🩷 As a developer, the direction I strive for is: a developer who deliberates and applies
 - 💌 How to reach me: choiyh11097@gmail.com
