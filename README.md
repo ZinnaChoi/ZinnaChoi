@@ -30,7 +30,7 @@
 #### 📍 I Have Experience With
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-39477F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-FFD1DC?style=flat-square&logo=Kafka&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-FC6C85?style=flat-square&logo=groovy&logoColor=white) ![NiFi](https://img.shields.io/badge/NiFi-C154C1?style=flat-square&logo=Nifi&logoColor=white) ![R](https://img.shields.io/badge/R-3E77B6?style=flat-square&logo=R&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-39477F?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-FFD1DC?style=flat-square&logo=Kafka&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-FC6C85?style=flat-square&logo=groovy&logoColor=white) ![NiFi](https://img.shields.io/badge/NiFi-C154C1?style=flat-square&logo=Nifi&logoColor=white) ![R](https://img.shields.io/badge/R-3E77B6?style=flat-square&logo=R&logoColor=white)
 
 </div>
 
