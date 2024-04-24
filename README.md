@@ -10,7 +10,7 @@
 <br>
 <div align="center">
 
-![Zinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinnaChoi&show_icons=true&count_private=true&theme=one_dark_pro&hide=contribs)
+![Zinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinnaChoi&show_icons=true&count_private=true&hide=contribs&theme=one_dark_pro)
 
 </div>
 
