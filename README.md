@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 💫 Development Philosophy: Robust design, user-centric approach, continuous improvement, and effective communication
-- 💌 How to reach me: choiyh11097@gmail.com
-- ✒️ My Tech Blog: [Zinna's Velog](https://velog.io/@zinna_1109)
+💫 Development Philosophy: Robust design, user-centric approach, continuous improvement, and effective communication <br>
+💌 How to reach me: choiyh11097@gmail.com <br>
+✒️ My Tech Blog: [Zinna's Velog](https://velog.io/@zinna_1109)
 
 <br>
 <div align="center">
