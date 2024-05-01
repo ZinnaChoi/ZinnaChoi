@@ -1,12 +1,12 @@
 # CHOI YE HEE
 
-## About Me
+## Contact
 
-💫 Development Philosophy: Robust design, user-centric approach, continuous improvement, and effective communication <br>
 💌 How to reach me: choiyh11097@gmail.com <br>
 ✒️ My Tech Blog: [Zinna's Velog](https://velog.io/@zinna_1109)
 
-<br>
+## Stats
+
 <div align="center">
 
 ![Zinna's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZinnaChoi&show_icons=true&count_private=true&hide=contribs&theme=one_dark_pro)
